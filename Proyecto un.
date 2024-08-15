@@ -1,0 +1,11 @@
+import tkinter as tk
+
+# Crear la ventana principal
+root = tk.Tk()
+root.title("Mi Primera Ventana")
+
+# Definir el tamaño de la ventana
+root.geometry("300x200")
+
+# Iniciar el bucle principal de la aplicación
+root.mainloop()
